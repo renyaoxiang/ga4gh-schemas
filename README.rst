@@ -1,6 +1,6 @@
 .. figure:: http://genomicsandhealth.org/files/logo_ga.png
 	    :alt: Image
-
+  
 
 Schemas for the Data Working Group
 !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
